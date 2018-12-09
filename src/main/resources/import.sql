@@ -1,0 +1,2 @@
+INSERT INTO person(id, last_name, first_name, middle_name, info) VALUES (1, 'Эйнштейн', 'Альберт', '', 'Учёный-Физик');
+INSERT INTO person(id, last_name, first_name, middle_name, info) VALUES (2, 'Браун', 'Дэн', '', 'Писатель');
